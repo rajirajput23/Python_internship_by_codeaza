@@ -1,0 +1,1 @@
+The file contains a code that shows the the implementation of best practices for effective programing.
